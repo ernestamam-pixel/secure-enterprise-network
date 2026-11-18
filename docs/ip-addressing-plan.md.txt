@@ -1,0 +1,11 @@
+Main private network: 10.0.0.0/16
+
+Sites: HQ, Branch A, Branch B
+
+HQ: 10.0.0.0/18
+
+Branch A: 10.0.64.0/18
+
+Branch B: 10.0.128.0/18
+
+Reserved for ISP and VPN links: 10.0.192.0/18
